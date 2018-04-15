@@ -1,0 +1,26 @@
+{
+  "name": "routing-api",
+  "version": "1.0.0",
+  "description": "An asynchronous client library for trafic routing.",
+  "keywords": [],
+  "author": "Julien Gobillot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgobillot/routing-api.git"
+  },
+  "license": "MIT",
+  "main": "lib/routing-api.js",
+  "scripts": {
+    "lint": "eslint lib test",
+    "test": "npm run lint && mocha"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "mocha": "^5.0.5",
+    "nock": "^9.2.3"
+  },
+  "dependencies": {
+    "deep-extend": "^0.5.0",
+    "request": "^2.85.0"
+  }
+}

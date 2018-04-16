@@ -1,6 +1,6 @@
 {
   "name": "routing-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An asynchronous client library for trafic routing.",
   "keywords": [],
   "author": "Julien Gobillot",

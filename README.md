@@ -1,4 +1,4 @@
-# Routing API 1.0.0
+# Routing API 2.0.0
 
 ```javascript
 const RoutingApi = require('routing-api');
